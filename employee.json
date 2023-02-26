@@ -1,0 +1,54 @@
+{
+    "employee" :{
+    "Employee 1":[
+    {"Name" : "Sumit"},
+    {"Date_of_birth": "01.01.1980"},
+    {"height " : "6.0 ft"},
+    {"city" :"Dehradun"},
+    {"State" : "Uttarakhand"}
+    ],
+
+    "Employee 2":[
+    {"Name" : "Arya"},
+    {"Date_of_birth": "01.02.1981"},
+    {"height " : "6.1 ft"},
+    {"city" :"Kasauli"},
+    {"State" : "Himachal Pradesh"}
+    ],
+
+    "Employee 3":[
+    {"Name" : "Hemant"},
+    {"Date_of_birth": "01.03.1982"},
+    {"height " : "6.2 ft"},
+    {"city" :"Kurnool"},
+    {"State" : "Andhra Pradesh"}
+    ],
+
+    "Employee 4":[
+    {"Name" : "Alex"},
+    {"Date_of_birth": "01.04.1983"},
+    {"height " : "6.3 ft"},
+    {"city" :"Kanpur"},
+    {"State" : "Uttar Pradesh"}
+    ],
+
+    "Employee 5 ":[
+    {"Name" : "Chetna"},
+    {"Date_of_birth": "01.05.1984"},
+    {"height " : "6.4 ft"},
+    {"city" :"Bhopal"},
+    {"State" : "Madhya Pradesh"}
+    ],
+
+    "Employee 6 ": [
+    {"Name" : "Neha"},
+    {"Date_of_birth": "01.06.1985"},
+    {"height " : "6.5 ft"},
+    {"city" :"Guahati"},
+    {"State" : "Assam"}
+    ]
+    }
+}
+
+
+
